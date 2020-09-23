@@ -1,0 +1,19 @@
+GhostYourself--------
+
+1. Start the program and set the slider control to 255 (All the way down).
+
+2. Move out of view of your webcam so your not visible in ANY part of the picture.
+
+3. Press the Set BG button.
+
+4. Make sure nothing has moved and lighting conditions are exactly the same.
+
+5. Now go back into view of the webcam and change the slider control to what you
+want. Down is more opaque, and up is more transparent. I found the best setting is
+180 for the best ghostly effect!
+
+If your wondering what the default background picture is, that's a picture of my room
+I was using for testing.
+
+
+Enjoy being a ghost :p
